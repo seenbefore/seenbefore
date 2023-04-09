@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @seenbefore
-- 👀 I’m interested in developing back end
-- 🌱 I’m currently learning Java and English
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in developing frontend
 - 📫 How to reach me Wechat:T18305088507 or qq:2228211537
 
 <!---
