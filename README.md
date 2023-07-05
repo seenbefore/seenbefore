@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seenbefore
 - 👀 I’m interested in developing frontend
-- 📫 How to reach me Wechat:T18305088507 or qq:2228211537
+- 📫 How to reach me qq:2228211537
 
 <!---
 seenbefore/seenbefore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
